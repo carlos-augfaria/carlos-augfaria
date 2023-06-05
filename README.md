@@ -1,6 +1,6 @@
-### **Hi👋
+### **Hi👋**
 
-#### **Quantitative trader & Tennis player <br>
+#### **Quantitative trader & Tennis player <br>**
   
 Data Science & AI enthusiast <br>
 I own the CFA, FRM and CQF designations <br>
