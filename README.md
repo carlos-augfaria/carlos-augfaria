@@ -1,6 +1,6 @@
-<h4><strong>Hi👋</strong></h4> 
+### **Hi👋
 
-<h5><strong>Quantitative trader & Tennis player</strong><h5> <br>
+#### **Quantitative trader & Tennis player <br>
   
 Data Science & AI enthusiast <br>
 I own the CFA, FRM and CQF designations <br>
